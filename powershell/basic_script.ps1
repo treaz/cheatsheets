@@ -8,7 +8,7 @@ Param (
     )][String]$ScriptParam1
 )
 
-# Imports
+# Import util functions
 . .\function_parameters.ps1
 
 # See https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_preference_variables?view=powershell-7.1#erroractionpreference
